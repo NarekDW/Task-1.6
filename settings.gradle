@@ -1,0 +1,4 @@
+rootProject.name = 'Task-1.6'
+
+include 'solution'
+
